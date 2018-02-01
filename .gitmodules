@@ -1,0 +1,3 @@
+[submodule "arowlibrary"]
+	path = arowlibrary
+	url = https://github.com/AraHakobyan/arowlibrary
